@@ -1,0 +1,2 @@
+class It(object):
+    pass
